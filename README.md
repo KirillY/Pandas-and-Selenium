@@ -1,5 +1,6 @@
 # Pandas-and-Selenium
-"BestCompany" internship project - business automation network with Pandas and Selenium, Google API integration
+"BestCompany" internship project - business automation network with Pandas and Selenium, Google API integration.
+
 .ipynb files need a jupyter notebook:
   * pip install jupyter
   * cd my_projects_folder
